@@ -16,4 +16,5 @@ This was an assignment in our Reinforcement Learning Class where we learnt to de
 
 # Test Results on Testing Data using Tensorflow LSTM Model
 
-<img width="425" alt="image" src="https://github.com/robosac333/RNN-implementation-to-forecast-passenger-data/assets/143353582/cd1c1b64-1671-4971-ab39-da4f017089df">
+<img width="425" alt="image" src="https://github.com/robosac333/RNN-implementation-to-forecast-passenger-data/assets/143353582/db2b80c1-8097-49e4-b5c4-e57614edd76b">
+
